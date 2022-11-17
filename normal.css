@@ -1,0 +1,32 @@
+*{
+
+    padding: 0;
+    margin: 0;
+
+}
+
+body{
+
+background-color: red;
+
+}
+
+.divn{
+
+    background-color: black;
+    margin: 0 auto;
+    height: 500px;
+    width: 500px;
+}
+
+.textn{
+
+    margin: 0 auto;
+    background-color: cadetblue;
+    display: flex;
+    width: 300px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+
+}
